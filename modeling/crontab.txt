@@ -1,0 +1,4 @@
+# 분 시 일 월 요일 명령어
+
+0 19 * * 1-5 /home/john/shell_script/krx_db_gcp.sh
+0 20 28 * * /home/john/shell_script/ameba_learning_gcp.sh
